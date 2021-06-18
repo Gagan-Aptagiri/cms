@@ -1,0 +1,23 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "description": "This is a Class Management System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gagan-Aptagiri/cms.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Gagan Aptagiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gagan-Aptagiri/cms/issues"
+  },
+  "homepage": "https://github.com/Gagan-Aptagiri/cms#readme"
+}
